@@ -1,0 +1,330 @@
+Cell: sky130_fd_sc_hd__conb_1 {
+  Inputs: 
+  Output: HI
+  Function: 1
+}
+
+  Inputs: 
+  Output: LO
+  Function: 0
+}
+
+Cell: sky130_fd_sc_hd__decap_12 {
+Cell: sky130_fd_sc_hd__decap_3 {
+Cell: sky130_fd_sc_hd__decap_4 {
+Cell: sky130_fd_sc_hd__decap_6 {
+Cell: sky130_fd_sc_hd__decap_8 {
+Cell: sky130_fd_sc_hd__dfbbn_1 {
+  Inputs: CLK_N, D, RESET_B, SET_B
+  Output: Q
+  Function: IQ
+}
+
+  Inputs: CLK_N, D, RESET_B, SET_B
+  Output: Q_N
+  Function: IQ_N
+}
+
+Cell: sky130_fd_sc_hd__dfbbn_2 {
+  Inputs: CLK_N, D, RESET_B, SET_B
+  Output: Q
+  Function: IQ
+}
+
+  Inputs: CLK_N, D, RESET_B, SET_B
+  Output: Q_N
+  Function: IQ_N
+}
+
+Cell: sky130_fd_sc_hd__dfbbp_1 {
+  Inputs: CLK, D, RESET_B, SET_B
+  Output: Q
+  Function: IQ
+}
+
+  Inputs: CLK, D, RESET_B, SET_B
+  Output: Q_N
+  Function: IQ_N
+}
+
+Cell: sky130_fd_sc_hd__dfrbp_1 {
+  Inputs: CLK, D, RESET_B
+  Output: Q
+  Function: IQ
+}
+
+  Inputs: CLK, D, RESET_B
+  Output: Q_N
+  Function: IQ_N
+}
+
+Cell: sky130_fd_sc_hd__dfrbp_2 {
+  Inputs: CLK, D, RESET_B
+  Output: Q
+  Function: IQ
+}
+
+  Inputs: CLK, D, RESET_B
+  Output: Q_N
+  Function: IQ_N
+}
+
+Cell: sky130_fd_sc_hd__dfrtn_1 {
+  Inputs: CLK_N, D, RESET_B
+  Output: Q
+  Function: IQ
+}
+
+Cell: sky130_fd_sc_hd__dfrtp_1 {
+  Inputs: CLK, D, RESET_B
+  Output: Q
+  Function: IQ
+}
+
+Cell: sky130_fd_sc_hd__dfrtp_2 {
+  Inputs: CLK, D, RESET_B
+  Output: Q
+  Function: IQ
+}
+
+Cell: sky130_fd_sc_hd__dfrtp_4 {
+  Inputs: CLK, D, RESET_B
+  Output: Q
+  Function: IQ
+}
+
+Cell: sky130_fd_sc_hd__dfsbp_1 {
+  Inputs: CLK, D, SET_B
+  Output: Q
+  Function: IQ
+}
+
+  Inputs: CLK, D, SET_B
+  Output: Q_N
+  Function: IQ_N
+}
+
+Cell: sky130_fd_sc_hd__dfsbp_2 {
+  Inputs: CLK, D, SET_B
+  Output: Q
+  Function: IQ
+}
+
+  Inputs: CLK, D, SET_B
+  Output: Q_N
+  Function: IQ_N
+}
+
+Cell: sky130_fd_sc_hd__dfstp_1 {
+  Inputs: CLK, D, SET_B
+  Output: Q
+  Function: IQ
+}
+
+Cell: sky130_fd_sc_hd__dfstp_2 {
+  Inputs: CLK, D, SET_B
+  Output: Q
+  Function: IQ
+}
+
+Cell: sky130_fd_sc_hd__dfstp_4 {
+  Inputs: CLK, D, SET_B
+  Output: Q
+  Function: IQ
+}
+
+Cell: sky130_fd_sc_hd__dfxbp_1 {
+  Inputs: CLK, D
+  Output: Q
+  Function: IQ
+}
+
+  Inputs: CLK, D
+  Output: Q_N
+  Function: IQ_N
+}
+
+Cell: sky130_fd_sc_hd__dfxbp_2 {
+  Inputs: CLK, D
+  Output: Q
+  Function: IQ
+}
+
+  Inputs: CLK, D
+  Output: Q_N
+  Function: IQ_N
+}
+
+Cell: sky130_fd_sc_hd__dfxtp_1 {
+  Inputs: CLK, D
+  Output: Q
+  Function: IQ
+}
+
+Cell: sky130_fd_sc_hd__dfxtp_2 {
+  Inputs: CLK, D
+  Output: Q
+  Function: IQ
+}
+
+Cell: sky130_fd_sc_hd__dfxtp_4 {
+  Inputs: CLK, D
+  Output: Q
+  Function: IQ
+}
+
+Cell: sky130_fd_sc_hd__diode_2 {
+Cell: sky130_fd_sc_hd__dlclkp_1 {
+  Inputs: CLK, GATE
+  Output: GCLK
+  Function: None
+}
+
+Cell: sky130_fd_sc_hd__dlclkp_2 {
+  Inputs: CLK, GATE
+  Output: GCLK
+  Function: None
+}
+
+Cell: sky130_fd_sc_hd__dlclkp_4 {
+  Inputs: CLK, GATE
+  Output: GCLK
+  Function: None
+}
+
+Cell: sky130_fd_sc_hd__dlrbn_1 {
+  Inputs: D, GATE_N, RESET_B
+  Output: Q
+  Function: IQ
+}
+
+  Inputs: D, GATE_N, RESET_B
+  Output: Q_N
+  Function: IQ_N
+}
+
+Cell: sky130_fd_sc_hd__dlrbn_2 {
+  Inputs: D, GATE_N, RESET_B
+  Output: Q
+  Function: IQ
+}
+
+  Inputs: D, GATE_N, RESET_B
+  Output: Q_N
+  Function: IQ_N
+}
+
+Cell: sky130_fd_sc_hd__dlrbp_1 {
+  Inputs: D, GATE, RESET_B
+  Output: Q
+  Function: IQ
+}
+
+  Inputs: D, GATE, RESET_B
+  Output: Q_N
+  Function: IQ_N
+}
+
+Cell: sky130_fd_sc_hd__dlrbp_2 {
+  Inputs: D, GATE, RESET_B
+  Output: Q
+  Function: IQ
+}
+
+  Inputs: D, GATE, RESET_B
+  Output: Q_N
+  Function: IQ_N
+}
+
+Cell: sky130_fd_sc_hd__dlrtn_1 {
+  Inputs: D, GATE_N, RESET_B
+  Output: Q
+  Function: IQ
+}
+
+Cell: sky130_fd_sc_hd__dlrtn_2 {
+  Inputs: D, GATE_N, RESET_B
+  Output: Q
+  Function: IQ
+}
+
+Cell: sky130_fd_sc_hd__dlrtn_4 {
+  Inputs: D, GATE_N, RESET_B
+  Output: Q
+  Function: IQ
+}
+
+Cell: sky130_fd_sc_hd__dlrtp_1 {
+  Inputs: D, GATE, RESET_B
+  Output: Q
+  Function: IQ
+}
+
+Cell: sky130_fd_sc_hd__dlrtp_2 {
+  Inputs: D, GATE, RESET_B
+  Output: Q
+  Function: IQ
+}
+
+Cell: sky130_fd_sc_hd__dlrtp_4 {
+  Inputs: D, GATE, RESET_B
+  Output: Q
+  Function: IQ
+}
+
+Cell: sky130_fd_sc_hd__dlxbn_1 {
+  Inputs: D, GATE_N
+  Output: Q
+  Function: IQ
+}
+
+  Inputs: D, GATE_N
+  Output: Q_N
+  Function: IQ_N
+}
+
+Cell: sky130_fd_sc_hd__dlxbn_2 {
+  Inputs: D, GATE_N
+  Output: Q
+  Function: IQ
+}
+
+  Inputs: D, GATE_N
+  Output: Q_N
+  Function: IQ_N
+}
+
+Cell: sky130_fd_sc_hd__dlxbp_1 {
+  Inputs: D, GATE
+  Output: Q
+  Function: IQ
+}
+
+  Inputs: D, GATE
+  Output: Q_N
+  Function: IQ_N
+}
+
+Cell: sky130_fd_sc_hd__dlxtn_1 {
+  Inputs: D, GATE_N
+  Output: Q
+  Function: IQ
+}
+
+Cell: sky130_fd_sc_hd__dlxtn_2 {
+  Inputs: D, GATE_N
+  Output: Q
+  Function: IQ
+}
+
+Cell: sky130_fd_sc_hd__dlxtn_4 {
+  Inputs: D, GATE_N
+  Output: Q
+  Function: IQ
+}
+
+Cell: sky130_fd_sc_hd__dlxtp_1 {
+  Inputs: D, GATE
+  Output: Q
+  Function: IQ
+}

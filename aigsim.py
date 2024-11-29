@@ -24,7 +24,7 @@ from dataclasses import dataclass
 @dataclass
 class Reader:
     
-    inFile = ''
+    inFile = None
     
     def _init_(self):
         pass
@@ -32,7 +32,6 @@ class Reader:
 #--------------------------------------------------------------------------------------
     
     def openFile(self,file):
-        
         self.inFile = open(file)
 
 #--------------------------------------------------------------------------------------
@@ -53,6 +52,7 @@ class Reader:
 
             else:
                 break
+
 
         
 #--------------------------------------------------------------------------------------
